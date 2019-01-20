@@ -1,4 +1,4 @@
-##This explains training SSD_INCEPTION_V2 model for Object detection
+## This explains training SSD_INCEPTION_V2 model for Object detection
 
 1. Resized the data using resize.py
 2. Split the data into test and train data randomly (90:10)
@@ -10,4 +10,4 @@
 7. Then Test the image using objec_detection_image.py
 
 
-##Note: Not uploading Tensorflow/models
+## Note: Not uploading Tensorflow/models
