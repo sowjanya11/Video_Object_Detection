@@ -1,0 +1,19 @@
+item {
+    id: 1
+    name: 'appy'
+}
+
+item {
+    id: 2
+    name: 'fanta'
+}
+
+item {
+    id: 3
+    name: 'appyfizz'
+}
+
+item {
+    id: 4
+    name: 'sprite'
+}
