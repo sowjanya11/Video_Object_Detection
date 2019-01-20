@@ -6,3 +6,4 @@
 5. Then we can test the model using label_image.py
 6. Since the test images are dark and the objects are too small(thumbnails), I have cropped constant area in the image and then increased brightness(edited_thumbnails).
 7. Then applied grabcut to separate background from the object(grabcut_results)
+8. Run label_image.py on grabcut_results/fg.jpg to view the result for particular frame
